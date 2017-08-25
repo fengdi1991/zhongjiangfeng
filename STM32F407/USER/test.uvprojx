@@ -332,7 +332,7 @@
             <v6WtE>0</v6WtE>
             <v6Rtti>0</v6Rtti>
             <VariousControls>
-              <MiscControls>C++</MiscControls>
+              <MiscControls></MiscControls>
               <Define>STM32F429xx</Define>
               <Undefine></Undefine>
               <IncludePath>..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart</IncludePath>

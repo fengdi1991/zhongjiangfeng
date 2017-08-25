@@ -5,10 +5,7 @@
 //新建工程实验  
 //技术支持：www.openedv.com
 //广州市星翼电子科技有限公司
-class AAA
-{};
-class bbb : public AAA
-{};
+
 int main(void)
 { 
 	u8 t=0;
